@@ -1,0 +1,200 @@
+[
+  {
+    "cardStyle": "bg-[url('/images/serviceMobile/security.webp')] md:bg-[url('/images/security.webp')]",
+    "cardItems": [
+      {
+        "type": "simple",
+        "title": "TENAGA PENGAMAN & SECURITY EVENT",
+        "description": "Menyediakan tenaga pengamanan profesional (satpam) untuk operasional perusahaan maupun kegiatan khusus/event, dengan standar disiplin tinggi dan patuh regulasi.",
+        "titleStyle": "text-2xl md:text-[32px]",
+        "descStyle": "text-sm md:text-base",
+        "className": "w-full md:w-114 gap-3 md:gap-5"
+      },
+      {
+        "type": "list",
+        "className": "w-full md:w-100 gap-3 md:gap-5",
+        "sectionClassName": "flex flex-col gap-5 md:gap-10",
+        "listClassName": "flex flex-col gap-3 md:gap-5",
+        "headingClassName": "font-semibold text-lg md:text-[20px]",
+        "itemsClassName": "text-sm md:text-base font-regular",
+        "sections": [
+          {
+            "heading": "Ruang Lingkup",
+            "items": [
+              "Pengamanan gedung, kawasan, dan fasilitas klien",
+              "Pengamanan event, termasuk area, tamu, dan VIP",
+              "Patroli rutin dan pengawasan lingkungan",
+              "Penanganan situasi darurat sesuai prosedur"
+            ]
+          },
+          {
+            "heading": "Keunggulan",
+            "items": [
+              "Tenaga pengamanan terlatih, profesional, dan amanah",
+              "Menjamin keamanan aset dan kelancaran operasional",
+              "Fleksibel untuk kebutuhan harian maupun event khusus"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardStyle": "bg-[url('/images/serviceMobile/cleaning.webp')] md:bg-[url('/images/cleaning.webp')]",
+    "cardItems": [
+      {
+        "type": "simple",
+        "title": "CLEANING SERVICE & FACILITY SUPPORT",
+        "description": "Layanan kebersihan dan pengelolaan fasilitas gedung, kantor, mall, dan fasilitas publik untuk memastikan lingkungan kerja bersih, aman, dan nyaman.",
+        "titleStyle": "text-2xl md:text-[32px]",
+        "descStyle": "text-sm md:text-base",
+        "className": "w-full md:w-114 gap-3 md:gap-5"
+      },
+      {
+        "type": "list",
+        "className": "w-full md:w-100 gap-3 md:gap-5",
+        "sectionClassName": "flex flex-col gap-5 md:gap-10",
+        "listClassName": "flex flex-col gap-3 md:gap-5",
+        "headingClassName": "font-semibold text-lg md:text-[20px]",
+        "itemsClassName": "text-sm md:text-base font-regular",
+        "sections": [
+          {
+            "heading": "Ruang Lingkup",
+            "items": [
+              "Cleaning service harian dan periodik",
+              "Pemeliharaan fasilitas dan inventaris gedung",
+              "Monitoring kualitas layanan"
+            ]
+          },
+          {
+            "heading": "Keunggulan",
+            "items": [
+              "Lingkungan kerja bersih, nyaman, dan terawat",
+              "Tenaga cleaning profesional dengan SOP standar",
+              "Operasional perusahaan lebih efisien dan aman"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardStyle": "bg-[url('/images/serviceMobile/Operasional.webp')] md:bg-[url('/images/operasional.webp')]",
+    "cardItems": [
+      {
+        "type": "simple",
+        "title": "TENAGA PENDUKUNG OPERASIONAL PERUSAHAAN",
+        "description": "Menyediakan tenaga kerja untuk mendukung kegiatan operasional perusahaan agar proses bisnis berjalan lancar dan efisien.",
+        "titleStyle": "text-2xl md:text-[32px]",
+        "descStyle": "text-sm md:text-base",
+        "className": "w-full md:w-114 gap-3 md:gap-5"
+      },
+      {
+        "type": "list",
+        "className": "w-full md:w-100 gap-3 md:gap-5",
+        "sectionClassName": "flex flex-col gap-5 md:gap-10",
+        "listClassName": "flex flex-col gap-3 md:gap-5",
+        "headingClassName": "font-semibold text-lg md:text-[20px]",
+        "itemsClassName": "text-sm md:text-base font-regular",
+        "sections": [
+          {
+            "heading": "Ruang Lingkup",
+            "items": [
+              "Tenaga pendukung harian untuk kantor, pabrik, atau fasilitas lain",
+              "Koordinasi operasional internal",
+              "Dukungan administrasi ringan dan logistik internal"
+            ]
+          },
+          {
+            "heading": "Keunggulan",
+            "items": [
+              "Mengurangi beban operasional internal",
+              "Tenaga kerja profesional dan siap pakai",
+              "Fokus perusahaan tetap pada core business"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardStyle": "bg-[url('/images/serviceMobile/Eo.webp')] md:bg-[url('/images/eo.webp')]",
+    "cardItems": [
+      {
+        "type": "simple",
+        "title": "EVENT SUPPORTING & STAFF",
+        "description": "Menyediakan tenaga kerja profesional untuk mendukung pelaksanaan event, konferensi, atau kegiatan perusahaan, termasuk pengamanan khusus untuk VVIP / VIP, logistik, dan tenaga pendukung administrasi.",
+        "titleStyle": "text-2xl md:text-[32px]",
+        "descStyle": "text-sm md:text-base",
+        "className": "w-full md:w-114 gap-3 md:gap-5"
+      },
+      {
+        "type": "list",
+        "className": "w-full md:w-100 gap-3 md:gap-5",
+        "sectionClassName": "flex flex-col gap-5 md:gap-10",
+        "listClassName": "flex flex-col gap-3 md:gap-5",
+        "headingClassName": "font-semibold text-lg md:text-[20px]",
+        "itemsClassName": "text-sm md:text-base font-regular",
+        "sections": [
+          {
+            "heading": "Ruang Lingkup",
+            "items": [
+              "Pengamanan area dan tamu, termasuk pengamanan khusus VVIP / VIP",
+              "Tenaga pendukung logistik dan operasional acara",
+              "Tenaga administrasi event (registrasi, koordinasi, dokumentasi)",
+              "Supervisi dan monitoring kelancaran pelaksanaan event"
+            ]
+          },
+          {
+            "heading": "Keunggulan",
+            "items": [
+              "Event berlangsung aman, lancar, dan terorganisir",
+              "Tenaga pengamanan dan pendukung profesional, terlatih, dan terstandar",
+              "Fleksibel sesuai skala dan kebutuhan acara",
+              "Menjamin keamanan tamu penting dan kelancaran keseluruhan event"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardStyle": "bg-[url('/images/serviceMobile/Outsourcing.webp')] md:bg-[url('/images/outsourcing.webp')]",
+    "cardItems": [
+      {
+        "type": "simple",
+        "title": "OUTSOURCING SDM & MANAJEMEN TENAGA KERJA",
+        "description": "Memberikan solusi pengelolaan tenaga kerja secara profesional dan terstruktur, sesuai regulasi ketenagakerjaan.",
+        "titleStyle": "text-2xl md:text-[32px]",
+        "descStyle": "text-sm md:text-base",
+        "className": "w-full md:w-114 gap-3 md:gap-5"
+      },
+      {
+        "type": "list",
+        "className": "w-full md:w-100 gap-3 md:gap-5",
+        "sectionClassName": "flex flex-col gap-5 md:gap-10",
+        "listClassName": "flex flex-col gap-3 md:gap-5",
+        "headingClassName": "font-semibold text-lg md:text-[20px]",
+        "itemsClassName": "text-sm md:text-base font-regular",
+        "sections": [
+          {
+            "heading": "Ruang Lingkup",
+            "items": [
+              "Rekrutmen dan penyediaan tenaga kerja",
+              "Monitoring kinerja dan evaluasi berkelanjutan",
+              "Pendampingan administrasi ketenagakerjaan"
+            ]
+          },
+          {
+            "heading": "Keunggulan",
+            "items": [
+              "Tenaga kerja siap pakai dan terstruktur",
+              "Kepatuhan penuh terhadap regulasi ketenagakerjaan",
+              "Mendukung efisiensi dan produktivitas operasional klien"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

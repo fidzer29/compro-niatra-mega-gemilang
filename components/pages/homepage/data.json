@@ -1,0 +1,89 @@
+{
+  "services": [
+    {
+      "title": "Tenaga Pengamanan & Security Event",
+      "image": "/images/security.webp",
+      "imageMobile": "/images/serviceSectionMobile/security.webp",
+      "className": "col-span-12 md:col-span-4",
+      "ratio": "aspect-[413.33502197265625/340]"
+    },
+    {
+      "title": "Cleaning Service & Facility Support",
+      "image": "/images/cleaning.webp",
+      "imageMobile": "/images/serviceSectionMobile/cleaning.webp",
+      "className": "col-span-12 md:col-span-4",
+      "ratio": "aspect-[413.33502197265625/340]"
+    },
+    {
+      "title": "Tenaga Pendukung Operasional Perusahaan",
+      "image": "/images/operasional.webp",
+      "imageMobile": "/images/serviceSectionMobile/operasional.webp",
+      "className": "col-span-12 md:col-span-4",
+      "ratio": "aspect-[413.33502197265625/340]"
+    },
+    {
+      "title": "Event Support & Staffing",
+      "image": "/images/eo.webp",
+      "imageMobile": "/images/serviceSectionMobile/eo.webp",
+      "className": "col-span-12 md:col-span-4",
+      "ratio": "aspect-[413.33502197265625/340]"
+    },
+    {
+      "title": "Outsourcing SDM & Manajemen Tenaga Kerja",
+      "image": "/images/hr.webp",
+      "imageMobile": "/images/serviceSectionMobile/hr.webp",
+      "className": "col-span-12 md:col-span-4",
+      "ratio": "aspect-[413.33502197265625/340]"
+    }
+  ],
+  "features": [
+    {
+      "number": "01",
+      "title": "KEUNGGULAN UTAMA",
+      "description": "PT Niatra Mega Gemilang menghadirkan tenaga kerja yang terpilih secara cermat dan terlatih intensif, siap memberikan layanan yang terstruktur dan efisien. Pelatihan fokus pada kompetensi profesional, disiplin kerja, dan kemampuan operasional sehingga tenaga kerja kami mampu mendukung berbagai sektor industri dan kebutuhan perusahaan dengan standar kualitas tinggi.",
+      "isList": false
+    },
+    {
+      "number": "02",
+      "title": "SISTEM PENGAWASAN & MONITORING TERSTRUKTUR",
+      "items": [
+        "Kinerja tenaga kerja dipantau melalui sistem pengawasan yang terintegrasi dan evaluasi rutin, menjamin performa selalu optimal.",
+        "Memastikan tugas diselesaikan sesuai SOP dan standar profesional klien.",
+        "Memberikan klien kendali penuh dan transparansi atas operasional tenaga kerja."
+      ],
+      "isList": true
+    },
+    {
+      "number": "03",
+      "title": "PROFESIONALISME & DISIPLIN TINGGI",
+      "items": [
+        "Setiap tenaga kerja bekerja berdasarkan standar operasional dan regulasi yang jelas.",
+        "Disiplin, tanggap, dan berorientasi pada hasil terbaik bagi klien.",
+        "Menjamin konsistensi dan kualitas layanan di seluruh proyek atau kegiatan."
+      ],
+      "isList": true
+    },
+    {
+      "number": "04",
+      "title": "TRANSPARASI & RESPONSIF",
+      "items": [
+        "Komunikasi dengan klien dilakukan terbuka dan akurat.",
+        "Laporan kinerja dan evaluasi disampaikan tepat waktu.",
+        "Tim PT siap merespon kebutuhan dan perubahan secara cepat, menjaga kelancaran operasional klien."
+      ],
+      "isList": true
+    },
+    {
+      "number": "05",
+      "title": "NILAI & PRINSIP KERJA PERUSAHAAN",
+      "items": [
+        "Profesional: Memberikan layanan sesuai standar tinggi.",
+        "Disiplin: Patuh SOP, aturan, dan regulasi industri.",
+        "Transparan: Komunikasi dan laporan selalu jelas dan terbuka.",
+        "Responsif: Tanggap terhadap kebutuhan klien.",
+        "Keberlanjutan: Menjalin hubungan jangka panjang yang mendukung pertumbuhan bisnis klien."
+      ],
+      "isList": true
+    }
+  ]
+}

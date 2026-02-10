@@ -1,0 +1,53 @@
+@import "tailwindcss";
+@import "primereact/resources/themes/lara-light-cyan/theme.css";
+
+@theme {
+  --color-primary-white: #d9d9d9;
+  --color-primary: #202020;
+  --color-secondary: #0f172a;
+  --color-accent: #646464;
+  --color-disabled: #e0e0e0;
+  --color-tertiary: #f0f0f0;
+
+  --header-height: 100px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* base entrance */
+.animate-fade-up {
+  opacity: 0;
+  transform: translateY(32px);
+  transition:
+    opacity 0.7s ease,
+    transform 0.7s ease;
+}
+
+/* visible state */
+.animate-fade-up.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* delay utilities */
+.delay-1 {
+  transition-delay: 0.1s;
+}
+.delay-2 {
+  transition-delay: 0.2s;
+}
+.delay-3 {
+  transition-delay: 0.3s;
+}
+.delay-4 {
+  transition-delay: 0.4s;
+}
+.delay-5 {
+  transition-delay: 0.5s;
+}
